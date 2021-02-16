@@ -17,6 +17,7 @@ This project was built using Ruby on Rails.
 
 
 ## Authors
+=======
 
 👤 **João Paulo Dias França**
 - GitHub: [@jpdf00](https://github.com/jpdf00)
