@@ -3,8 +3,11 @@
 This is the Micro-Reddit made in Ruby on Rails project focusing on active record.
 
 
-## Live Code
+## Pre-requisites
 
+- Ruby 3.0.0
+- Rails 6.1.2
+- SQLite3
 
 ## Built With
 
@@ -15,6 +18,14 @@ This project was built using Ruby on Rails.
 
 ## Usage
 
+- Clone this repo to your local enviroment.
+- Open your terminal and `cd` to the `active-record` folder you just cloned.
+- Run migrate the tables to your local enviroment by running:
+  - On Linux - `$ bin/rails db:migrate`
+  - On Windows - `ruby bin/rails db:migrate`
+- Run the rails console:
+  - On Linux - `$ bin/rails console`
+  - On Windows - `ruby bin/rails console`
 
 ## Authors
 =======
